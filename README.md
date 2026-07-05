@@ -218,4 +218,3 @@ npm run dev
 ---
 
 
-Built as part of the Kaggle AI Agents Capstone Project.
