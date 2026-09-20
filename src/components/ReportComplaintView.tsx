@@ -740,3 +740,4 @@ export default function ReportComplaintView({
     </div>
   );
 }
+
