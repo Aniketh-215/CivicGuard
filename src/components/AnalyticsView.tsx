@@ -317,3 +317,4 @@ export default function AnalyticsView({ complaints }: AnalyticsViewProps) {
     </div>
   );
 }
+
