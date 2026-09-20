@@ -328,3 +328,4 @@ export const AI_AGENTS_LIST: AIAgentInfo[] = [
     icon: 'BarChart3'
   }
 ];
+
