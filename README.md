@@ -153,7 +153,6 @@ Citizen Verification
 | Language | TypeScript |
 | Styling | CSS |
 | Maps | Leaflet + OpenStreetMap |
-| AI | Google AI Studio |
 | Location | Browser Geolocation API |
 | Image Capture | MediaDevices API |
 
