@@ -90,3 +90,4 @@ export interface AIAgentInfo {
   status: 'idle' | 'active' | 'completed';
   icon: string;
 }
+
